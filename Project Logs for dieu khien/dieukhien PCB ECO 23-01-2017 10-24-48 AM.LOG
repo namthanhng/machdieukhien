@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=N Pin=DB2-1
+Added Pin To Net: NetName=N Pin=DB3-1
+Added Pin To Net: NetName=N Pin=R280-1
+Added Pin To Net: NetName=NetDB2_2 Pin=DB2-2
+Added Pin To Net: NetName=NetDB2_2 Pin=DB3-2
+Added Pin To Net: NetName=NetDB2_2 Pin=R280-2
+Added Net: Name=NetDB2_2
+Added Pin To Net: NetName=P402-1 Pin=DB2-3
+Added Pin To Net: NetName=P402-1 Pin=P402-1
+Added Net: Name=P402-1
+Added Pin To Net: NetName=P402-2 Pin=DB3-3
+Added Pin To Net: NetName=P402-2 Pin=P402-2
+Added Net: Name=P402-2

@@ -1,0 +1,28 @@
+Added Pin To Net: NetName=N Pin=C30-1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=R61-2
+Added Pin To Net: NetName=NetC30_2 Pin=U401-10
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetU401_3 Pin=U401-3
+Added Pin To Net: NetName=NetU401_3 Pin=U401-11
+Added Pin To Net: NetName=NetU401_3 Pin=U402-3
+Added Net: Name=NetU401_3
+Added Pin To Net: NetName=U400-2 Pin=C28-2
+Added Pin To Net: NetName=U400-2 Pin=R62-1
+Added Pin To Net: NetName=U400-2 Pin=U400-2
+Added Pin To Net: NetName=U400-2 Pin=U400-13
+Added Pin To Net: NetName=U400-2 Pin=U401-4
+Added Pin To Net: NetName=U400-2 Pin=U401-6
+Added Pin To Net: NetName=U400-2 Pin=U401-8
+Added Net: Name=U400-2
+Added Pin To Net: NetName=U401-1 Pin=U400-8
+Added Pin To Net: NetName=U401-1 Pin=U401-1
+Added Net: Name=U401-1
+Added Pin To Net: NetName=U401-2 Pin=U400-5
+Added Pin To Net: NetName=U401-2 Pin=U401-2
+Added Pin To Net: NetName=U401-2 Pin=U401-5
+Added Net: Name=U401-2
+Added Pin To Net: NetName=U401-13 Pin=R61-1
+Added Pin To Net: NetName=U401-13 Pin=U400-9
+Added Pin To Net: NetName=U401-13 Pin=U401-13
+Added Net: Name=U401-13

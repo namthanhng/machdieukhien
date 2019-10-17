@@ -1,0 +1,3 @@
+Change Component Comment : Designator=P202 Old Comment=MHDR2X2 New Comment=PFC_G
+Added Pin To Net: NetName=NetU200_2 Pin=U200-9
+Added Pin To Net: NetName=NetU200_2 Pin=U200-11

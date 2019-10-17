@@ -1,0 +1,20 @@
+Added Component: Designator=C230(A)
+Added Component: Designator=C236(A)
+Added Component: Designator=C635(A)
+Added Component: Designator=C636(A)
+Added Component: Designator=C820(A)
+Added Component: Designator=C903(A)
+Added Component: Designator=C906(A)
+Added Component: Designator=Q900(SOT89)
+Added Component: Designator=Q901(SOT89)
+Added Net: Name=C
+Added Member To Class: ClassName=dieukhien Member=Component C230 Cap Pol1
+Added Member To Class: ClassName=dieukhien Member=Component C236 Cap Pol1
+Added Member To Class: ClassName=dieukhien Member=Component C635 Cap Pol1
+Added Member To Class: ClassName=dieukhien Member=Component C636 Cap Pol1
+Added Member To Class: ClassName=dieukhien Member=Component C820 Cap Pol1
+Added Member To Class: ClassName=dieukhien Member=Component C903 Cap Pol1
+Added Member To Class: ClassName=dieukhien Member=Component C906 Cap Pol1
+Added Member To Class: ClassName=dieukhien Member=Component Q900 BCX53-AH
+Added Member To Class: ClassName=dieukhien Member=Component Q901 BC869-CEC
+Added Room: Name=dieukhien

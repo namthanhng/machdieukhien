@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=P203-3 Pin=P203-3
+Added Pin To Net: NetName=P203-3 Pin=P203-2
+Change Net Name : Old Net Name=P203-3 New Net Name=P203-2

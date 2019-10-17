@@ -1,0 +1,4 @@
+Added Component: Designator=QA11(SOT-23B)
+Added Component: Designator=QA12(SOT-23B)
+Added Member To Class: ClassName=dieukhien Member=Component QA11 2FN
+Added Member To Class: ClassName=dieukhien Member=Component QA12 2FN

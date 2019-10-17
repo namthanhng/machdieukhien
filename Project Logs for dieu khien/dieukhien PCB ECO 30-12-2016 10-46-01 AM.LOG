@@ -1,0 +1,13 @@
+Change Component Comment : Designator=DZ1 Old Comment=D Zener New Comment=8G
+Added Component: Designator=DG1(SOT23)
+Added Component: Designator=DG2(SOT23)
+Added Component: Designator=DG3(SOT23)
+Added Component: Designator=Q8(SOT23A)
+Added Component: Designator=QA7(SOT-23B)
+Added Component: Designator=QA8(SOT-23B)
+Added Member To Class: ClassName=dieukhien Member=Component DG1 BAW56-A1
+Added Member To Class: ClassName=dieukhien Member=Component DG2 BAW56-A1
+Added Member To Class: ClassName=dieukhien Member=Component DG3 BAW56-A1
+Added Member To Class: ClassName=dieukhien Member=Component Q8 MMBT2222A-1P
+Added Member To Class: ClassName=dieukhien Member=Component QA7 2FN
+Added Member To Class: ClassName=dieukhien Member=Component QA8 2FN

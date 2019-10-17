@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=DS1 NewDesignator=DB1
+Added Component: Designator=DB2(SOT23A)
+Added Component: Designator=DB3(SOT23A)
+Added Member To Class: ClassName=dieukhien Member=Component DB2 BAT54S-WV4
+Added Member To Class: ClassName=dieukhien Member=Component DB3 BAT54S-WV4

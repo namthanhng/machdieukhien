@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=15V Pin=P201-1
+Change Net Name : Old Net Name=P200-2 New Net Name=380V2
+Change Net Name : Old Net Name=P200-3 New Net Name=380V1

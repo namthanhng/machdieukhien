@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=N Pin=C13-1
+Added Pin To Net: NetName=N Pin=R38-1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=QA2-3
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R34-2
+Added Pin To Net: NetName=NetC13_2 Pin=R38-2
+Added Pin To Net: NetName=NetC13_2 Pin=R39-1
+Added Pin To Net: NetName=NetC13_2 Pin=R40-1
+Added Pin To Net: NetName=NetC13_2 Pin=U207-5
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetOC402_5 Pin=OC402-5
+Added Pin To Net: NetName=NetOC402_5 Pin=R40-2
+Added Net: Name=NetOC402_5
+Added Pin To Net: NetName=NetR33_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_1 Pin=R35-1
+Added Pin To Net: NetName=NetR33_1 Pin=U207-7
+Added Net: Name=NetR33_1
+Added Pin To Net: NetName=NetR34_1 Pin=R34-1
+Added Pin To Net: NetName=NetR34_1 Pin=R36-1
+Added Pin To Net: NetName=NetR34_1 Pin=U207-2
+Added Net: Name=NetR34_1
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=R37-2
+Added Pin To Net: NetName=NetR36_2 Pin=U207-6
+Added Net: Name=NetR36_2

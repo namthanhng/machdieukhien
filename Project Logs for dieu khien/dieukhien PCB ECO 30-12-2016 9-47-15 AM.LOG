@@ -1,0 +1,8 @@
+Added Component: Designator=Q2(SOT23A)
+Added Component: Designator=Q3(SOT23A)
+Added Component: Designator=Q4(SOT23A)
+Added Component: Designator=Q5(SOT23A)
+Added Member To Class: ClassName=dieukhien Member=Component Q2 MMBT2222A-1P
+Added Member To Class: ClassName=dieukhien Member=Component Q3 MMBT2222A-1P
+Added Member To Class: ClassName=dieukhien Member=Component Q4 MMBT2222A-1P
+Added Member To Class: ClassName=dieukhien Member=Component Q5 MMBT2222A-1P

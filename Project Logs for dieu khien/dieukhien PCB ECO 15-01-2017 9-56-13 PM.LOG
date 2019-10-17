@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=N Pin=C32-2
+Added Pin To Net: NetName=N Pin=P202-1
+Added Pin To Net: NetName=N Pin=P202-2
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_1 Pin=R66-2
+Added Pin To Net: NetName=NetC32_1 Pin=R278-2
+Added Pin To Net: NetName=NetC32_1 Pin=U200-13
+Added Net: Name=NetC32_1
+Added Pin To Net: NetName=NetDD7_2 Pin=DD7-2
+Added Pin To Net: NetName=NetDD7_2 Pin=R66-1
+Added Net: Name=NetDD7_2
+Added Pin To Net: NetName=NetU200_2 Pin=U200-2
+Added Pin To Net: NetName=NetU200_2 Pin=U200-3
+Added Pin To Net: NetName=NetU200_2 Pin=U200-5
+Added Net: Name=NetU200_2
+Added Pin To Net: NetName=NetU200_9 Pin=U200-9
+Added Pin To Net: NetName=NetU200_9 Pin=U200-11
+Added Net: Name=NetU200_9

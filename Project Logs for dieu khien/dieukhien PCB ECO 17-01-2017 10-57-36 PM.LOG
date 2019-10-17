@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=N Pin=C37-1
+Added Pin To Net: NetName=NetC45_1 Pin=C45-1
+Added Pin To Net: NetName=NetC45_1 Pin=R100-1
+Added Pin To Net: NetName=NetC45_1 Pin=R101-2
+Added Pin To Net: NetName=NetC45_1 Pin=U202-1
+Added Net: Name=NetC45_1
+Added Pin To Net: NetName=NetC45_2 Pin=C45-2
+Added Pin To Net: NetName=NetC45_2 Pin=R103-1
+Added Net: Name=NetC45_2
+Added Pin To Net: NetName=NetR81_2 Pin=R81-2
+Added Pin To Net: NetName=NetR81_2 Pin=R101-1
+Added Pin To Net: NetName=NetR81_2 Pin=U202-7
+Added Net: Name=NetR81_2
+Added Pin To Net: NetName=VDD14 Pin=C37-2
+Added Pin To Net: NetName=VDD14 Pin=R79-2
+Added Pin To Net: NetName=VDD14 Pin=R81-1
+Added Pin To Net: NetName=VDD14 Pin=R102-2
+Added Pin To Net: NetName=VDD14 Pin=R103-2
+Added Pin To Net: NetName=VDD14 Pin=R104-2
+Added Pin To Net: NetName=VDD14 Pin=U202-3
+Added Net: Name=VDD14

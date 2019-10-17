@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=NetDD13_1 Pin=DD13-1
+Added Pin To Net: NetName=NetDD13_1 Pin=DD13-2
+Added Pin To Net: NetName=NetDD13_1 Pin=QA8-1
+Added Net: Name=NetDD13_1
+Added Pin To Net: NetName=U202-10 Pin=DD13-3
+Added Pin To Net: NetName=U202-10 Pin=QA10-3
+Added Pin To Net: NetName=U202-10 Pin=R82-1
+Added Pin To Net: NetName=U202-10 Pin=U202-10
+Added Net: Name=U202-10

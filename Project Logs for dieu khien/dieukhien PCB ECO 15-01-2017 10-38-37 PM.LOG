@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=N Pin=R73-1
+Added Pin To Net: NetName=NetR69_2 Pin=R69-2
+Added Pin To Net: NetName=NetR69_2 Pin=R70-2
+Added Net: Name=NetR69_2
+Added Pin To Net: NetName=NetR70_1 Pin=R70-1
+Added Pin To Net: NetName=NetR70_1 Pin=R71-1
+Added Net: Name=NetR70_1
+Added Pin To Net: NetName=NetR72_1 Pin=R72-1
+Added Pin To Net: NetName=NetR72_1 Pin=R73-2
+Added Net: Name=NetR72_1
+Added Pin To Net: NetName=P203-1 Pin=P203-1
+Added Net: Name=P203-1
+Added Pin To Net: NetName=P203-3 Pin=P203-3
+Added Pin To Net: NetName=P203-3 Pin=R72-2
+Added Net: Name=P203-3
+Added Pin To Net: NetName=P203-4 Pin=P203-4
+Added Pin To Net: NetName=P203-4 Pin=R71-2
+Added Net: Name=P203-4

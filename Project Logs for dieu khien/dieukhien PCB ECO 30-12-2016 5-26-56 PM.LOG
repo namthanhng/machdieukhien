@@ -1,0 +1,10 @@
+Added Component: Designator=DG4(SOT23A)
+Added Component: Designator=Q15(SOT23A)
+Added Component: Designator=QA14(SOT-23B)
+Added Component: Designator=QA15(SOT-23B)
+Added Component: Designator=QA16(SOT-23B)
+Added Member To Class: ClassName=dieukhien Member=Component DG4 BAW56-A1
+Added Member To Class: ClassName=dieukhien Member=Component Q15 MMBT2222A-1P
+Added Member To Class: ClassName=dieukhien Member=Component QA14 2FN
+Added Member To Class: ClassName=dieukhien Member=Component QA15 2FN
+Added Member To Class: ClassName=dieukhien Member=Component QA16 2FN

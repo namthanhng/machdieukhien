@@ -1,0 +1,10 @@
+Added Component: Designator=QA2(SOT-23B)
+Added Component: Designator=QA3(SOT-23B)
+Added Component: Designator=QA4(SOT-23B)
+Added Component: Designator=QA5(SOT-23B)
+Added Component: Designator=U803(TO228P970-3_4L)
+Added Member To Class: ClassName=dieukhien Member=Component QA2 2FN
+Added Member To Class: ClassName=dieukhien Member=Component QA3 2FN
+Added Member To Class: ClassName=dieukhien Member=Component QA4 2FN
+Added Member To Class: ClassName=dieukhien Member=Component QA5 2FN
+Added Member To Class: ClassName=dieukhien Member=Component U803 RESET IC

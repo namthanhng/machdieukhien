@@ -1,0 +1,114 @@
+Added Component: Designator=C101(C0805)
+Added Component: Designator=C102(C0805)
+Added Component: Designator=C103(C0805)
+Added Component: Designator=C104(C0805)
+Added Component: Designator=C105(C0805)
+Added Component: Designator=C106(C0805)
+Added Component: Designator=C107(C0805)
+Added Component: Designator=C108(C0805)
+Added Component: Designator=C109(C0805)
+Added Component: Designator=C110(C0805)
+Added Component: Designator=C111(C0805)
+Added Component: Designator=C112(C0805)
+Added Component: Designator=C113(C0805)
+Added Component: Designator=C114(C0805)
+Added Component: Designator=C115(C0805)
+Added Component: Designator=C116(C0805)
+Added Component: Designator=C117(C0805)
+Added Component: Designator=C118(C0805)
+Added Component: Designator=C119(C0805)
+Added Component: Designator=C120(C0805)
+Added Component: Designator=C121(C0805)
+Added Component: Designator=C122(C0805)
+Added Component: Designator=C123(C0805)
+Added Component: Designator=C124(C0805)
+Added Component: Designator=C125(C0805)
+Added Component: Designator=C126(C0805)
+Added Component: Designator=C127(C0805)
+Added Component: Designator=C128(C0805)
+Added Component: Designator=C129(C0805)
+Added Component: Designator=C130(C0805)
+Added Component: Designator=R202(2012[0805])
+Added Component: Designator=R203(2012[0805])
+Added Component: Designator=R204(2012[0805])
+Added Component: Designator=R205(2012[0805])
+Added Component: Designator=R206(2012[0805])
+Added Component: Designator=R207(2012[0805])
+Added Component: Designator=R208(2012[0805])
+Added Component: Designator=R209(2012[0805])
+Added Component: Designator=R210(2012[0805])
+Added Component: Designator=R211(2012[0805])
+Added Component: Designator=R212(2012[0805])
+Added Component: Designator=R213(2012[0805])
+Added Component: Designator=R214(2012[0805])
+Added Component: Designator=R215(2012[0805])
+Added Component: Designator=R216(2012[0805])
+Added Component: Designator=R217(2012[0805])
+Added Component: Designator=R218(2012[0805])
+Added Component: Designator=R219(2012[0805])
+Added Component: Designator=R220(2012[0805])
+Added Component: Designator=R221(2012[0805])
+Added Component: Designator=R222(2012[0805])
+Added Component: Designator=R223(2012[0805])
+Added Component: Designator=R224(2012[0805])
+Added Component: Designator=R225(2012[0805])
+Added Component: Designator=R226(2012[0805])
+Added Component: Designator=R227(2012[0805])
+Added Component: Designator=R228(2012[0805])
+Added Member To Class: ClassName=dieukhien Member=Component C101 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C102 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C103 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C104 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C105 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C106 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C107 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C108 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C109 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C110 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C111 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C112 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C113 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C114 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C115 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C116 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C117 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C118 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C119 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C120 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C121 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C122 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C123 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C124 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C125 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C126 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C127 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C128 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C129 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C130 Cap
+Added Member To Class: ClassName=dieukhien Member=Component R202 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R203 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R204 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R205 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R206 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R207 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R208 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R209 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R210 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R211 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R212 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R213 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R214 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R215 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R216 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R217 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R218 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R219 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R220 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R221 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R222 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R223 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R224 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R225 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R226 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R227 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R228 Res2

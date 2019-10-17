@@ -1,0 +1,88 @@
+Removed Member From Class: ClassName=dieukhien Member=DS1
+Added Component: Designator=C52(C0805)
+Added Component: Designator=C53(C0805)
+Added Component: Designator=C54(C0805)
+Added Component: Designator=C55(C0805)
+Added Component: Designator=C56(C0805)
+Added Component: Designator=C57(C0805)
+Added Component: Designator=C58(C0805)
+Added Component: Designator=C59(C0805)
+Added Component: Designator=C60(C0805)
+Added Component: Designator=C61(C0805)
+Added Component: Designator=C62(C0805)
+Added Component: Designator=C63(C0805)
+Added Component: Designator=C64(C0805)
+Added Component: Designator=C65(C0805)
+Added Component: Designator=C66(C0805)
+Added Component: Designator=C67(C0805)
+Added Component: Designator=C68(C0805)
+Added Component: Designator=C69(C0805)
+Added Component: Designator=C70(C0805)
+Added Component: Designator=DD1(SOT23A)
+Added Component: Designator=DD2(SOT23A)
+Added Component: Designator=DD3(SOT23A)
+Added Component: Designator=R51(2012[0805])
+Added Component: Designator=R52(2012[0805])
+Added Component: Designator=R53(2012[0805])
+Added Component: Designator=R54(2012[0805])
+Added Component: Designator=R55(2012[0805])
+Added Component: Designator=R56(2012[0805])
+Added Component: Designator=R57(2012[0805])
+Added Component: Designator=R58(2012[0805])
+Added Component: Designator=R59(2012[0805])
+Added Component: Designator=R60(2012[0805])
+Added Component: Designator=R61(2012[0805])
+Added Component: Designator=R62(2012[0805])
+Added Component: Designator=R63(2012[0805])
+Added Component: Designator=R64(2012[0805])
+Added Component: Designator=R65(2012[0805])
+Added Component: Designator=R66(2012[0805])
+Added Component: Designator=R67(2012[0805])
+Added Component: Designator=R68(2012[0805])
+Added Component: Designator=R69(2012[0805])
+Added Component: Designator=R70(2012[0805])
+Added Pin To Net: NetName=NetR58_2 Pin=R58-2
+Added Pin To Net: NetName=NetR58_2 Pin=R59-1
+Added Net: Name=NetR58_2
+Added Member To Class: ClassName=dieukhien Member=Component C52 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C53 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C54 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C55 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C56 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C57 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C58 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C59 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C60 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C61 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C62 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C63 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C64 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C65 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C66 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C67 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C68 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C69 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C70 Cap
+Added Member To Class: ClassName=dieukhien Member=Component DD1 BAV70-A4
+Added Member To Class: ClassName=dieukhien Member=Component DD2 BAV70-A4
+Added Member To Class: ClassName=dieukhien Member=Component DD3 BAV70-A4
+Added Member To Class: ClassName=dieukhien Member=Component R51 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R52 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R53 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R54 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R55 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R56 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R57 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R58 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R59 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R60 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R61 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R62 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R63 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R64 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R65 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R66 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R67 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R68 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R69 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R70 Res2

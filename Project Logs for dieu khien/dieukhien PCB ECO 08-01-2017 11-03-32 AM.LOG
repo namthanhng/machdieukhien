@@ -1,0 +1,8 @@
+Change Component Comment : Designator=OC402 Old Comment=Optoisolator1 New Comment=cny17f-2
+Change Component Comment : Designator=OC401 Old Comment=Optoisolator1 New Comment=cny17f-2
+Change Component Comment : Designator=OC400 Old Comment=Optoisolator1 New Comment=cny17f-2
+Added Pin To Net: NetName=N Pin=C2-1
+Added Pin To Net: NetName=N Pin=C23-2
+Added Pin To Net: NetName=N Pin=R2-1
+Added Pin To Net: NetName=N Pin=U201-4
+Added Net: Name=N

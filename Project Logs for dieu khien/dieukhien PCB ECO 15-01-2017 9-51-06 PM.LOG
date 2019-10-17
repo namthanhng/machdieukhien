@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=U200-7
+Removed Pin From Net: NetName=VCC Pin=U200-14
+Added Pin To Net: NetName=N Pin=C133-1
+Added Pin To Net: NetName=N Pin=q203-2
+Added Pin To Net: NetName=N Pin=QA7-3
+Added Pin To Net: NetName=N Pin=U200-7
+Added Pin To Net: NetName=NetP202_3 Pin=P202-3
+Added Pin To Net: NetName=NetP202_3 Pin=P202-4
+Added Pin To Net: NetName=NetP202_3 Pin=R64-1
+Added Pin To Net: NetName=NetP202_3 Pin=R65-2
+Added Net: Name=NetP202_3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=QA7-1
+Added Pin To Net: NetName=NetQ6_1 Pin=U200-4
+Added Pin To Net: NetName=NetQ6_1 Pin=U200-6
+Added Pin To Net: NetName=NetQ6_1 Pin=U200-8
+Added Pin To Net: NetName=NetQ6_1 Pin=U200-10
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=Q8-1
+Added Pin To Net: NetName=NetQ6_2 Pin=q203-1
+Added Pin To Net: NetName=NetQ6_2 Pin=QA7-2
+Added Net: Name=NetQ6_2
+Added Pin To Net: NetName=NetQ8_2 Pin=Q8-2
+Added Pin To Net: NetName=NetQ8_2 Pin=R64-2
+Added Net: Name=NetQ8_2
+Added Pin To Net: NetName=Netq203_3 Pin=q203-3
+Added Pin To Net: NetName=Netq203_3 Pin=R65-1
+Added Net: Name=Netq203_3
+Added Pin To Net: NetName=VDD12 Pin=C133-2
+Added Pin To Net: NetName=VDD12 Pin=Q6-3
+Added Pin To Net: NetName=VDD12 Pin=Q8-3
+Added Pin To Net: NetName=VDD12 Pin=R67-2
+Added Pin To Net: NetName=VDD12 Pin=R68-2
+Added Pin To Net: NetName=VDD12 Pin=U200-14
+Added Net: Name=VDD12

@@ -1,0 +1,4 @@
+Added Component: Designator=Q400(SOT89)
+Added Component: Designator=Q401(SOT89)
+Added Member To Class: ClassName=dieukhien Member=Component Q400 BCX53-AH
+Added Member To Class: ClassName=dieukhien Member=Component Q401 BCX53-AH

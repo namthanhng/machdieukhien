@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=QA13 New Net Name=NetC52_2
+Added Pin To Net: NetName=NetOC400_4 Pin=OC400-4
+Added Pin To Net: NetName=NetOC400_4 Pin=Q13-2
+Added Pin To Net: NetName=NetOC400_4 Pin=R131-1
+Added Net: Name=NetOC400_4
+Added Member To Class: ClassName=dieukhien Member=Component QA13 2FN

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC Pin=R20-1
+Added Pin To Net: NetName=U203-8 Pin=C10-1
+Added Pin To Net: NetName=U203-8 Pin=R20-2
+Added Net: Name=U203-8

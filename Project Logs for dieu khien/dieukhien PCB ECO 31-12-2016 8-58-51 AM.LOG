@@ -1,0 +1,26 @@
+Added Component: Designator=R238(2012[0805])
+Added Component: Designator=R239(2012[0805])
+Added Component: Designator=R240(2012[0805])
+Added Component: Designator=R241(2012[0805])
+Added Component: Designator=R242(2012[0805])
+Added Component: Designator=R243(2012[0805])
+Added Component: Designator=R244(2012[0805])
+Added Component: Designator=R245(2012[0805])
+Added Component: Designator=R246(2012[0805])
+Added Component: Designator=R247(2012[0805])
+Added Component: Designator=R248(2012[0805])
+Added Component: Designator=R249(2012[0805])
+Added Component: Designator=R250(2012[0805])
+Added Member To Class: ClassName=dieukhien Member=Component R238 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R239 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R240 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R241 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R242 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R243 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R244 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R245 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R246 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R247 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R248 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R249 Res2
+Added Member To Class: ClassName=dieukhien Member=Component R250 Res2

@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=N Pin=C27-1
+Added Pin To Net: NetName=N Pin=C54-2
+Added Pin To Net: NetName=N Pin=C57-2
+Added Pin To Net: NetName=VDD15 Pin=C27-2
+Added Pin To Net: NetName=VDD15 Pin=C53-1
+Added Pin To Net: NetName=VDD15 Pin=C54-1
+Added Pin To Net: NetName=VDD15 Pin=C57-1
+Added Pin To Net: NetName=VDD15 Pin=Q10-2
+Added Pin To Net: NetName=VDD15 Pin=Q12-3
+Added Pin To Net: NetName=VDD15 Pin=R115-2
+Added Pin To Net: NetName=VDD15 Pin=R117-1
+Added Pin To Net: NetName=VDD15 Pin=R120-1
+Added Pin To Net: NetName=VDD15 Pin=R121-1
+Added Pin To Net: NetName=VDD15 Pin=R134-2
+Added Pin To Net: NetName=VDD15 Pin=R135-2
+Added Pin To Net: NetName=VDD15 Pin=R279-2
+Added Pin To Net: NetName=VDD15 Pin=U402-4
+Added Pin To Net: NetName=VDD15 Pin=U402-8
+Added Net: Name=VDD15

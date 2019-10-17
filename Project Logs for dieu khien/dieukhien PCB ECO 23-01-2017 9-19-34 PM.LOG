@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetC70_1 Pin=C70-1
+Added Pin To Net: NetName=NetC70_1 Pin=OC401-1
+Added Net: Name=NetC70_1
+Added Pin To Net: NetName=NetC70_2 Pin=C70-2
+Added Pin To Net: NetName=NetC70_2 Pin=QA19-3
+Added Pin To Net: NetName=NetC70_2 Pin=R158-1
+Added Net: Name=NetC70_2
+Added Pin To Net: NetName=NetR157_1 Pin=R157-1
+Added Pin To Net: NetName=NetR157_1 Pin=R158-2
+Added Net: Name=NetR157_1

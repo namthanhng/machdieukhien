@@ -1,0 +1,7 @@
+Added Component: Designator=D5(SOT-23B)
+Added Component: Designator=D6(SOT-23B)
+Added Component: Designator=QA18(SOT-23B)
+Added Member To Class: ClassName=dieukhien Member=Component D5 BAV99-A7W
+Added Member To Class: ClassName=dieukhien Member=Component D6 BAV99-A7W
+Added Member To Class: ClassName=dieukhien Member=Component QA18 2FN
+Added Room: Name=dieukhien

@@ -1,0 +1,22 @@
+Added Component: Designator=C131(C0805)
+Added Component: Designator=C132(C0805)
+Added Component: Designator=C133(C0805)
+Added Component: Designator=C134(C0805)
+Added Component: Designator=C135(C0805)
+Added Component: Designator=C136(C0805)
+Added Component: Designator=C137(C0805)
+Added Component: Designator=C138(C0805)
+Added Component: Designator=C139(C0805)
+Added Component: Designator=DB4(SOT23A)
+Added Component: Designator=DB5(SOT23A)
+Added Member To Class: ClassName=dieukhien Member=Component C131 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C132 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C133 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C134 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C135 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C136 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C137 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C138 Cap
+Added Member To Class: ClassName=dieukhien Member=Component C139 Cap
+Added Member To Class: ClassName=dieukhien Member=Component DB4 BAT54S-WV4
+Added Member To Class: ClassName=dieukhien Member=Component DB5 BAT54S-WV4

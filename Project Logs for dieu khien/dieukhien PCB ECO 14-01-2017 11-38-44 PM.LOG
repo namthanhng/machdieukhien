@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D3 Old Footprint=SOT23A New Footprint=SOT95P240-3L
+Change Component Footprint: Designator=D4 Old Footprint=SOT23A New Footprint=SOT95P240-3L
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R7-2
+Added Net: Name=NetD4_1
